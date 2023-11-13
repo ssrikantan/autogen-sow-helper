@@ -1,0 +1,4 @@
+pip install streamlit pyautogen[retrievechat]~=0.2.0b4 pysqlite3-binary
+
+# after installing pysqlite3-binary, run >>   mkdir /home/vscode/.local/lib/python3.10/site-packages/google/colab
+# or sudo mkdir /usr/local/python/3.10.8/lib/python3.10/site-packages/google/colab
