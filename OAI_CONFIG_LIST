@@ -2,19 +2,19 @@
 [
     {
         "model": "gpt-3.5-turbo",
-        "api_key": "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"
+        "api_key": "ccccccccccccccc"
     },
     {
         "model": "gpt-4",
-        "api_key": "b3746559be3e4803a98aa84185add2e2",
-        "base_url": "https://aoai-gpt4-mtcin.openai.azure.com/",
+        "api_key": "ccccccccccccccccccc",
+        "base_url": "https://cccccccccccccc.azure.com/",
         "api_type": "azure",
         "api_version": "2023-07-01-preview"
     },
     {
         "model": "gpt-35-turbo",
-        "api_key": "73a7084661b643b2ba6dd9713556171b",
-        "base_url": "https://aoai-workspacwe-aoai.openai.azure.com/",
+        "api_key": "cccccccccccccccc",
+        "base_url": "https://cccccccccccc.openai.azure.com/",
         "api_type": "azure",
         "api_version": "2023-07-01-preview"
     }
